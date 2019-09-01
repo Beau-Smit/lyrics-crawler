@@ -1,1 +1,3 @@
-TOKEN = ''
+TOKEN = '6AceZP23DYqI4MFlyu-_k54Da9eTRfQbF3jrx3_QyKgPB1LvOOqKYycgIP_ZOEje'
+# Client secret:
+# Vaco_qAK6BMP-OI77IQHEyeatC6W5ehijSULLFjVmNscOPFBKUtlZL1LF4bfic7MM9tbKheawUL9JcB824TXaQ
